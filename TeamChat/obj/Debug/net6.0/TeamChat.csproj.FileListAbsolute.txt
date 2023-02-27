@@ -1,0 +1,15 @@
+M:\csharp\Middle\TeamChat\TeamChat\bin\Debug\net6.0\TeamChat.exe
+M:\csharp\Middle\TeamChat\TeamChat\bin\Debug\net6.0\TeamChat.deps.json
+M:\csharp\Middle\TeamChat\TeamChat\bin\Debug\net6.0\TeamChat.runtimeconfig.json
+M:\csharp\Middle\TeamChat\TeamChat\bin\Debug\net6.0\TeamChat.dll
+M:\csharp\Middle\TeamChat\TeamChat\bin\Debug\net6.0\TeamChat.pdb
+M:\csharp\Middle\TeamChat\TeamChat\obj\Debug\net6.0\TeamChat.csproj.AssemblyReference.cache
+M:\csharp\Middle\TeamChat\TeamChat\obj\Debug\net6.0\TeamChat.GeneratedMSBuildEditorConfig.editorconfig
+M:\csharp\Middle\TeamChat\TeamChat\obj\Debug\net6.0\TeamChat.AssemblyInfoInputs.cache
+M:\csharp\Middle\TeamChat\TeamChat\obj\Debug\net6.0\TeamChat.AssemblyInfo.cs
+M:\csharp\Middle\TeamChat\TeamChat\obj\Debug\net6.0\TeamChat.csproj.CoreCompileInputs.cache
+M:\csharp\Middle\TeamChat\TeamChat\obj\Debug\net6.0\TeamChat.dll
+M:\csharp\Middle\TeamChat\TeamChat\obj\Debug\net6.0\refint\TeamChat.dll
+M:\csharp\Middle\TeamChat\TeamChat\obj\Debug\net6.0\TeamChat.pdb
+M:\csharp\Middle\TeamChat\TeamChat\obj\Debug\net6.0\TeamChat.genruntimeconfig.cache
+M:\csharp\Middle\TeamChat\TeamChat\obj\Debug\net6.0\ref\TeamChat.dll
